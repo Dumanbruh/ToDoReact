@@ -1,7 +1,7 @@
 # Simple To-Do App
 
-This project was created with react.
-localhost:3000 - Front
+This project was created with react. \
+localhost:3000 - Front \
 localhost:8080 - Json Server
 
 ## Available Scripts
