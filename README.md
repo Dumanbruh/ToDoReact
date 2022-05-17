@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple To-Do App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with react.
+localhost:3000 - Front
+localhost:8080 - Json Server
 
 ## Available Scripts
 
